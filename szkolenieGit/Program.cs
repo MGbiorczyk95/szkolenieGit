@@ -12,7 +12,7 @@ namespace szkolenieGit
 		{
 			Console.WriteLine("Hello World!");
 			var userInput = Console.ReadLine();
-			var test2 = Console.ReadLine();
+			var test3 = Console.ReadLine();
 		}
 	}
 }
