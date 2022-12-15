@@ -5,6 +5,13 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szkolenieGit", "szkolenieGit\szkolenieGit.csproj", "{8798B099-7D69-4C8F-9ACF-61126B678D8D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77ED528D-29A5-40D0-B755-4B852F66B1DE}"
+	ProjectSection(SolutionItems) = preProject
+		group.html = group.html
+		Maciej.html = Maciej.html
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
