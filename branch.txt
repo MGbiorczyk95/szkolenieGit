@@ -1,0 +1,3 @@
+Edycja pliku branch.txt dla commita
+
+Lorem Ipsum
